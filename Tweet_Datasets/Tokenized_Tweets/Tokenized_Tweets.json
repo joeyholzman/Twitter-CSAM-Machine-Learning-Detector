@@ -3,7 +3,8 @@
             "Tweet": [
                   "text"
             ],
-            "Timestamp": "created_at"
+            "Timestamp": "created_at",
+            "Classification": 0
       },
       {
             "Tweet": [
@@ -23,7 +24,8 @@
                   "#JackBauer",
                   "#jailbait"
             ],
-            "Timestamp": "Sun Sep 01 05:35:39 +0000 2013"
+            "Timestamp": "Sun Sep 01 05:35:39 +0000 2013",
+            "Classification": 0
       },
       {
             "Tweet": [
@@ -48,7 +50,8 @@
                   "#jailbait",
                   "#PLL"
             ],
-            "Timestamp": "Sat Aug 31 18:20:34 +0000 2013"
+            "Timestamp": "Sat Aug 31 18:20:34 +0000 2013",
+            "Classification": 0
       },
       {
             "Tweet": [
@@ -77,7 +80,8 @@
                   "#jailbait",
                   "http://t.co/4t4H1U4xgn"
             ],
-            "Timestamp": "Sat Aug 31 18:20:46 +0000 2013"
+            "Timestamp": "Sat Aug 31 18:20:46 +0000 2013",
+            "Classification": 1
       },
       {
             "Tweet": [
