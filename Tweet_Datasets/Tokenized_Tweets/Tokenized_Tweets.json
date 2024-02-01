@@ -2,7 +2,8 @@
       {
             "Tweet": [
                   "text"
-            ]
+            ],
+            "Classification": 0
       },
       {
             "Tweet": [
@@ -21,7 +22,8 @@
                   "hourz",
                   "#JackBauer",
                   "#jailbait"
-            ]
+            ],
+            "Classification": 0
       },
       {
             "Tweet": [

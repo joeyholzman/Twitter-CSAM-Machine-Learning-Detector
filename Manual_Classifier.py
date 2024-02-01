@@ -15,17 +15,19 @@ def update_classification(json_data):
 
             entry["Classification"] = int(classification)
 
-            with open(json_file_path, 'w') as f:
-                json.dump(existing_data, f, indent=6)
-
     return json_data
 
+# Read existing JSON file
 json_file_path = './Tweet_Datasets/Tokenized_Tweets/Tokenized_Tweets.json'
 with open(json_file_path, 'r') as f:
     existing_data = json.load(f)
 
-tweets_without_classification = [entry for entry in existing_data if "Classification" not in entry]
-updated_data = update_classification(tweets_without_classification)
+# Update the classification for each tokenized tweet
+updated_data = update_classification(existing_data)
+
+# Write the updated data back to the JSON file
+with open(json_file_path, 'w') as f:
+    json.dump(updated_data, f, indent=6)
 
 print("Classification updated successfully.")
 
