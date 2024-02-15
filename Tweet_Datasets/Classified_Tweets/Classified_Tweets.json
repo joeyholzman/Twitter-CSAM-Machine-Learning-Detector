@@ -1,63 +1,54 @@
 [
       {
-            "Tweet": [
+            "TweetText": "text",
+            "TokenizedTweet": [
                   "text"
             ],
             "Timestamp": "created_at",
             "Classification": 0
       },
       {
-            "Tweet": [
+            "TweetText": "RT @SelenasWankBank: And for the jailbait fans, Selena at 17. #SelenaGomez #bikini #teen #jailbait #tits #boobs #breasts https://t.co/Qo3MJ\u2026",
+            "TokenizedTweet": [
                   "RT",
-                  "@SelenasWankBank",
-                  ":",
-                  "And",
-                  "for",
-                  "the",
                   "jailbait",
                   "fans",
-                  ",",
                   "Selena",
-                  "at",
-                  "17",
-                  ".",
-                  "#SelenaGomez",
-                  "#bikini",
-                  "#teen",
-                  "#jailbait",
-                  "#tits",
-                  "#boobs",
-                  "#breasts",
-                  "https://t.co/Qo3MJ\u2026"
+                  "SelenaGomez",
+                  "bikini",
+                  "teen",
+                  "jailbait",
+                  "tits",
+                  "boobs",
+                  "breasts"
             ],
             "Timestamp": "Thu Mar 17 23:04:48 +0000 2016",
-            "Classification": 0
+            "Classification": 1
       },
       {
-            "Tweet": [
-                  "I'm",
-                  "17",
-                  "...",
-                  "I'm",
+            "TweetText": "I'm 17... I'm jailbait",
+            "TokenizedTweet": [
+                  "Im",
+                  "Im",
                   "jailbait"
             ],
             "Timestamp": "Mon Mar 28 05:10:59 +0000 2016",
             "Classification": 0
       },
       {
-            "Tweet": [
+            "TweetText": "Florida breeds jailbait.",
+            "TokenizedTweet": [
                   "Florida",
                   "breeds",
-                  "jailbait",
-                  "."
+                  "jailbait"
             ],
             "Timestamp": "Wed Mar 23 03:23:07 +0000 2016",
             "Classification": 0
       },
       {
-            "Tweet": [
+            "TweetText": "Jurina is really jailbait",
+            "TokenizedTweet": [
                   "Jurina",
-                  "is",
                   "really",
                   "jailbait"
             ],
@@ -65,11 +56,10 @@
             "Classification": 0
       },
       {
-            "Tweet": [
+            "TweetText": "Jacob Davies out on jailbait patrol",
+            "TokenizedTweet": [
                   "Jacob",
                   "Davies",
-                  "out",
-                  "on",
                   "jailbait",
                   "patrol"
             ],
@@ -77,104 +67,64 @@
             "Classification": 0
       },
       {
-            "Tweet": [
-                  "Jacob",
-                  "Davies",
-                  "out",
-                  "on",
-                  "jailbait",
-                  "patrol"
-            ],
-            "Timestamp": "Tue Mar 29 18:47:48 +0000 2016",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "I",
+            "TweetText": "I love when Jailbait teaches me new abbreviations. \u263a\ufe0f",
+            "TokenizedTweet": [
                   "love",
-                  "when",
                   "Jailbait",
                   "teaches",
-                  "me",
                   "new",
                   "abbreviations",
-                  ".",
-                  "\u263a",
-                  "\ufe0f"
+                  "\u263a\ufe0f"
             ],
             "Timestamp": "Wed Mar 09 06:06:07 +0000 2016",
             "Classification": 0
       },
       {
-            "Tweet": [
-                  "@heartofhannah1",
+            "TweetText": "@heartofhannah1 oh you and your jailbait better not start tonight !",
+            "TokenizedTweet": [
                   "oh",
-                  "you",
-                  "and",
-                  "your",
                   "jailbait",
                   "better",
-                  "not",
                   "start",
-                  "tonight",
-                  "!"
+                  "tonight"
             ],
             "Timestamp": "Thu Mar 17 03:06:30 +0000 2016",
             "Classification": 0
       },
       {
-            "Tweet": [
+            "TweetText": "Always a nice surprise to bump into @lukecotty of a morning. #JailBait",
+            "TokenizedTweet": [
                   "Always",
-                  "a",
                   "nice",
                   "surprise",
-                  "to",
                   "bump",
-                  "into",
-                  "@lukecotty",
-                  "of",
-                  "a",
                   "morning",
-                  ".",
-                  "#JailBait"
+                  "JailBait"
             ],
             "Timestamp": "Thu Mar 10 08:24:13 +0000 2016",
             "Classification": 0
       },
       {
-            "Tweet": [
+            "TweetText": "DAMN THOSE ARMS, HERCULES! \nHow old is this actor? Is it jailbait?\n\n#OnceUponATime",
+            "TokenizedTweet": [
                   "DAMN",
-                  "THOSE",
                   "ARMS",
-                  ",",
                   "HERCULES",
-                  "!",
-                  "How",
                   "old",
-                  "is",
-                  "this",
                   "actor",
-                  "?",
-                  "Is",
-                  "it",
                   "jailbait",
-                  "?",
-                  "#OnceUponATime"
+                  "OnceUponATime"
             ],
             "Timestamp": "Mon Mar 14 00:07:47 +0000 2016",
             "Classification": 0
       },
       {
-            "Tweet": [
+            "TweetText": "RT @TROLLGAWDD: JAILBAIT. \nWHATS THAT SPELL? \nCHILD PREDATOR CHARGES",
+            "TokenizedTweet": [
                   "RT",
-                  "@TROLLGAWDD",
-                  ":",
                   "JAILBAIT",
-                  ".",
                   "WHATS",
-                  "THAT",
                   "SPELL",
-                  "?",
                   "CHILD",
                   "PREDATOR",
                   "CHARGES"
@@ -183,2102 +133,231 @@
             "Classification": 0
       },
       {
-            "Tweet": [
-                  "cell-fie",
-                  "because",
+            "TweetText": "cell-fie\nbecause jailbait\nlmfao https://t.co/meQXdPoA4b",
+            "TokenizedTweet": [
+                  "cellfie",
                   "jailbait",
-                  "lmfao",
-                  "https://t.co/meQXdPoA4b"
+                  "lmfao"
             ],
             "Timestamp": "Thu Mar 24 22:03:21 +0000 2016",
             "Classification": 0
       },
       {
-            "Tweet": [
+            "TweetText": "RT @txdaddy70: Retweet if you like #jailbait https://t.co/XICxJ39Lhh",
+            "TokenizedTweet": [
                   "RT",
-                  "@txdaddy70",
-                  ":",
                   "Retweet",
-                  "if",
-                  "you",
                   "like",
-                  "#jailbait",
-                  "https://t.co/XICxJ39Lhh"
+                  "jailbait"
             ],
             "Timestamp": "Fri Mar 18 15:38:40 +0000 2016",
             "Classification": 1
       },
       {
-            "Tweet": [
+            "TweetText": "Dam. 14 tho \n#jailbait #wouldbeworthit https://t.co/oUPZrMdzaE",
+            "TokenizedTweet": [
                   "Dam",
-                  ".",
-                  "14",
                   "tho",
-                  "#jailbait",
-                  "#wouldbeworthit",
-                  "https://t.co/oUPZrMdzaE"
+                  "jailbait",
+                  "wouldbeworthit"
             ],
             "Timestamp": "Sat Mar 26 06:34:49 +0000 2016",
             "Classification": 1
       },
       {
-            "Tweet": [
+            "TweetText": "RT @MDelhome: #jailbait part 1 https://t.co/o4OxzhjDp9",
+            "TokenizedTweet": [
                   "RT",
-                  "@MDelhome",
-                  ":",
-                  "#jailbait",
+                  "jailbait",
                   "part",
-                  "1",
-                  "https://t.co/o4OxzhjDp9"
+                  "1"
             ],
             "Timestamp": "Sun Mar 20 20:37:39 +0000 2016",
             "Classification": 1
       },
       {
-            "Tweet": [
+            "TweetText": "WISHBONE ASH - Jailbait https://t.co/MQxl3IGJmz #nowplaying #listenlive",
+            "TokenizedTweet": [
                   "WISHBONE",
                   "ASH",
-                  "-",
                   "Jailbait",
-                  "https://t.co/MQxl3IGJmz",
-                  "#nowplaying",
-                  "#listenlive"
+                  "nowplaying",
+                  "listenlive"
             ],
             "Timestamp": "Sun Mar 20 07:05:10 +0000 2016",
             "Classification": 0
       },
       {
-            "Tweet": [
+            "TweetText": "RT @MDelhome: #californiagirl #jailbait found her again! https://t.co/OqdeGtDmX8",
+            "TokenizedTweet": [
                   "RT",
-                  "@MDelhome",
-                  ":",
-                  "#californiagirl",
-                  "#jailbait",
-                  "found",
-                  "her",
-                  "again",
-                  "!",
-                  "https://t.co/OqdeGtDmX8"
+                  "californiagirl",
+                  "jailbait",
+                  "found"
             ],
             "Timestamp": "Thu Mar 31 13:08:18 +0000 2016",
             "Classification": 1
       },
       {
-            "Tweet": [
-                  "R",
-                  "/",
-                  "T",
-                  "if",
-                  "you",
+            "TweetText": "R/T if you like #jailbait and #teen ass https://t.co/RSSsu2FaOD",
+            "TokenizedTweet": [
+                  "RT",
                   "like",
-                  "#jailbait",
-                  "and",
-                  "#teen",
-                  "ass",
-                  "https://t.co/RSSsu2FaOD"
+                  "jailbait",
+                  "teen",
+                  "ass"
             ],
             "Timestamp": "Sat Mar 12 01:36:26 +0000 2016",
-            "Classification": 1
+            "Classification": 0
       },
       {
-            "Tweet": [
+            "TweetText": "RT @TO10DD: Damn....#teen #nude #jailbait https://t.co/gW3dHr0I5E",
+            "TokenizedTweet": [
                   "RT",
-                  "@TO10DD",
-                  ":",
-                  "Damn",
-                  "...",
-                  "#teen",
-                  "#nude",
-                  "#jailbait",
-                  "https://t.co/gW3dHr0I5E"
+                  "Damnteen",
+                  "nude",
+                  "jailbait"
             ],
             "Timestamp": "Mon Mar 21 15:10:26 +0000 2016",
             "Classification": 1
       },
       {
-            "Tweet": [
-                  "so",
+            "TweetText": "so sweat! #jailbait \u2665 https://t.co/xuzpILnjmX \u2665 https://t.co/DIhOwzyraf",
+            "TokenizedTweet": [
                   "sweat",
-                  "!",
-                  "#jailbait",
+                  "jailbait",
                   "\u2665",
-                  "https://t.co/xuzpILnjmX",
-                  "\u2665",
-                  "https://t.co/DIhOwzyraf"
+                  "\u2665"
             ],
             "Timestamp": "Mon Mar 14 16:30:13 +0000 2016",
             "Classification": 1
       },
       {
-            "Tweet": [
+            "TweetText": "RT @adamheinzer: #tittytuesday #jailbait Nicky is hot https://t.co/OpIvxuYLIU",
+            "TokenizedTweet": [
                   "RT",
-                  "@adamheinzer",
-                  ":",
-                  "#tittytuesday",
-                  "#jailbait",
+                  "tittytuesday",
+                  "jailbait",
                   "Nicky",
-                  "is",
-                  "hot",
-                  "https://t.co/OpIvxuYLIU"
+                  "hot"
             ],
             "Timestamp": "Wed Mar 30 12:49:48 +0000 2016",
-            "Classification": 0
+            "Classification": 1
       },
       {
-            "Tweet": [
-                  "RT",
-                  "@adamheinzer",
-                  ":",
-                  "#tittytuesday",
-                  "#jailbait",
-                  "Nicky",
-                  "is",
-                  "hot",
-                  "https://t.co/OpIvxuYLIU"
-            ],
-            "Timestamp": "Wed Mar 30 12:49:48 +0000 2016",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "Re",
-                  ":",
+            "TweetText": "Re: Hot Wet Jailbait Teens: [/UR... https://t.co/Sx0CfsoM4M",
+            "TokenizedTweet": [
                   "Hot",
                   "Wet",
                   "Jailbait",
                   "Teens",
-                  ":",
-                  "[",
-                  "/",
-                  "UR",
-                  "...",
-                  "https://t.co/Sx0CfsoM4M"
+                  "UR"
             ],
             "Timestamp": "Wed Mar 30 18:15:46 +0000 2016",
             "Classification": 1
       },
       {
-            "Tweet": [
+            "TweetText": "Ted Nugent's Jailbait Problem https://t.co/auKXuFlb7G via @HuffPostPol",
+            "TokenizedTweet": [
                   "Ted",
-                  "Nugent's",
+                  "Nugents",
                   "Jailbait",
                   "Problem",
-                  "https://t.co/auKXuFlb7G",
-                  "via",
-                  "@HuffPostPol"
+                  "via"
             ],
             "Timestamp": "Fri Apr 01 04:58:37 +0000 2016",
             "Classification": 0
       },
       {
-            "Tweet": [
+            "TweetText": "RT @YoungBabes016: Summer almost here! \n#LittleSlut #Jailbait #SummerBabes https://t.co/GBWnXylmvD",
+            "TokenizedTweet": [
                   "RT",
-                  "@YoungBabes016",
-                  ":",
                   "Summer",
                   "almost",
-                  "here",
-                  "!",
-                  "#LittleSlut",
-                  "#Jailbait",
-                  "#SummerBabes",
-                  "https://t.co/GBWnXylmvD"
+                  "LittleSlut",
+                  "Jailbait",
+                  "SummerBabes"
             ],
             "Timestamp": "Sat Mar 26 17:58:35 +0000 2016",
             "Classification": 1
       },
       {
-            "Tweet": [
+            "TweetText": "RT @rlvj_: i kept telling y'all she's jailbait lol  https://t.co/qZN0vypW81",
+            "TokenizedTweet": [
                   "RT",
-                  "@rlvj_",
-                  ":",
-                  "i",
                   "kept",
                   "telling",
-                  "y'all",
-                  "she's",
+                  "yall",
+                  "shes",
                   "jailbait",
-                  "lol",
-                  "https://t.co/qZN0vypW81"
+                  "lol"
             ],
             "Timestamp": "Tue Mar 29 20:32:05 +0000 2016",
-            "Classification": 0
+            "Classification": 1
       },
       {
-            "Tweet": [
+            "TweetText": "RT @XGirlsAreWhores: Just more worthless brainless jailbait whores. https://t.co/TbrCIDRsk8",
+            "TokenizedTweet": [
                   "RT",
-                  "@rlvj_",
-                  ":",
-                  "i",
-                  "kept",
-                  "telling",
-                  "y'all",
-                  "she's",
-                  "jailbait",
-                  "lol",
-                  "https://t.co/qZN0vypW81"
-            ],
-            "Timestamp": "Tue Mar 29 20:32:05 +0000 2016",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@XGirlsAreWhores",
-                  ":",
-                  "Just",
-                  "more",
                   "worthless",
                   "brainless",
                   "jailbait",
-                  "whores",
-                  ".",
-                  "https://t.co/TbrCIDRsk8"
+                  "whores"
             ],
             "Timestamp": "Tue Mar 22 02:29:02 +0000 2016",
-            "Classification": 0
+            "Classification": 1
       },
       {
-            "Tweet": [
+            "TweetText": "RT @JDean19761: Please r/t my tweets\n#jailbait https://t.co/V9e7kZdvq0",
+            "TokenizedTweet": [
                   "RT",
-                  "@JDean19761",
-                  ":",
                   "Please",
-                  "r",
-                  "/",
-                  "t",
-                  "my",
+                  "rt",
                   "tweets",
-                  "#jailbait",
-                  "https://t.co/V9e7kZdvq0"
+                  "jailbait"
             ],
             "Timestamp": "Thu Mar 03 10:07:29 +0000 2016",
             "Classification": 0
       },
       {
-            "Tweet": [
+            "TweetText": "RT @mikyyyla: taking my lil jailbait boyfriend to prom\ud83d\udc9f https://t.co/l1ngIp6NJa",
+            "TokenizedTweet": [
                   "RT",
-                  "@JDean19761",
-                  ":",
-                  "Please",
-                  "r",
-                  "/",
-                  "t",
-                  "my",
-                  "tweets",
-                  "#jailbait",
-                  "https://t.co/V9e7kZdvq0"
-            ],
-            "Timestamp": "Tue Mar 01 20:26:07 +0000 2016",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@mikyyyla",
-                  ":",
                   "taking",
-                  "my",
                   "lil",
                   "jailbait",
                   "boyfriend",
-                  "to",
-                  "prom",
-                  "\ud83d\udc9f",
-                  "https://t.co/l1ngIp6NJa"
+                  "prom\ud83d\udc9f"
             ],
             "Timestamp": "Mon Mar 28 16:58:15 +0000 2016",
             "Classification": 0
       },
       {
-            "Tweet": [
+            "TweetText": "RT @dailyybaddies: RT IF YOUD CUM ON HER TITS #jailbait https://t.co/Hba3l2nINL",
+            "TokenizedTweet": [
                   "RT",
-                  "@dailyybaddies",
-                  ":",
                   "RT",
-                  "IF",
                   "YOUD",
                   "CUM",
-                  "ON",
-                  "HER",
                   "TITS",
-                  "#jailbait",
-                  "https://t.co/Hba3l2nINL"
+                  "jailbait"
             ],
             "Timestamp": "Mon Mar 28 17:39:05 +0000 2016",
-            "Classification": 0
+            "Classification": 1
       },
       {
-            "Tweet": [
-                  "he",
+            "TweetText": "he tryna make you change ur name back to Jailbait lmfao https://t.co/QIiNX2Q7JO",
+            "TokenizedTweet": [
                   "tryna",
                   "make",
-                  "you",
                   "change",
                   "ur",
                   "name",
                   "back",
-                  "to",
                   "Jailbait",
-                  "lmfao",
-                  "https://t.co/QIiNX2Q7JO"
+                  "lmfao"
             ],
             "Timestamp": "Thu Mar 10 08:48:22 +0000 2016",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "@takeoffurcool",
-                  "yup",
-                  ",",
-                  "was",
-                  "a",
-                  "great",
-                  "place",
-                  "to",
-                  "meet",
-                  "people",
-                  "around",
-                  "the",
-                  "same",
-                  "age",
-                  "as",
-                  "me",
-                  ".",
-                  "Now",
-                  "it's",
-                  "all",
-                  "young",
-                  "\"",
-                  "jailbait",
-                  "\"",
-                  "people"
-            ],
-            "Timestamp": "Thu Mar 17 15:20:46 +0000 2016",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "Mmm",
-                  "best",
-                  "shag",
-                  "I've",
-                  "ever",
-                  "had",
-                  "from",
-                  "this",
-                  "one",
-                  ".",
-                  "#jailbait",
-                  "#slut",
-                  "#tits",
-                  "https://t.co/qXK8RMER1D"
-            ],
-            "Timestamp": "Sun Mar 27 10:34:10 +0000 2016",
-            "Classification": 1
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@txdaddy70",
-                  ":",
-                  "This",
-                  "is",
-                  "what",
-                  "happens",
-                  "when",
-                  "my",
-                  "sister",
-                  "gets",
-                  "drunk",
-                  ".",
-                  "#teamincest",
-                  "#jailbait",
-                  "https://t.co/6Gzvv97IPn"
-            ],
-            "Timestamp": "Wed Mar 23 02:16:36 +0000 2016",
-            "Classification": 1
-      },
-      {
-            "Tweet": [
-                  "Cute",
-                  ";)",
-                  "#blonde",
-                  "#amateurs",
-                  "#teens",
-                  "#barelylegalteens",
-                  "#sexyteens",
-                  "#hotteens",
-                  "#jailbait",
-                  "https://t.co/Ze2JZsrTCp"
-            ],
-            "Timestamp": "Thu Mar 31 13:45:34 +0000 2016",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@half_past_5ive",
-                  ":",
-                  "Got",
-                  "my",
-                  "mom",
-                  "flashing",
-                  "#milf",
-                  "#slut",
-                  "#jailbait",
-                  "#incestisbest",
-                  "https://t.co/k5AZ1wiqtq"
-            ],
-            "Timestamp": "Fri Mar 18 14:11:41 +0000 2016",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@cuties_young",
-                  ":",
-                  "Perfect",
-                  "Size",
-                  "!",
-                  "#TeenPorn",
-                  "#Blonde",
-                  "#Jailbait",
-                  "#NakedTeens",
-                  "#TinyTeens",
-                  "https://t.co/Hx5zHIHaeH"
-            ],
-            "Timestamp": "Sun Mar 20 11:59:40 +0000 2016",
-            "Classification": 1
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@Xxxguy21",
-                  ":",
-                  "10",
-                  "retweets",
-                  "and",
-                  "I",
-                  "will",
-                  "show",
-                  "her",
-                  "nude",
-                  "#jailbait",
-                  "#Rt",
-                  "https://t.co/57kGj1lguT"
-            ],
-            "Timestamp": "Thu Mar 03 22:16:49 +0000 2016",
-            "Classification": 1
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@CuteNudeGirls1",
-                  ":",
-                  "Lovely",
-                  "Cutie",
-                  "#YoungPorn",
-                  "#Cuteteens",
-                  "#Jailbait",
-                  "#Blonde",
-                  "#TeenPorn",
-                  "https://t.co/uwaEA8SgHU"
-            ],
-            "Timestamp": "Thu Mar 31 12:27:07 +0000 2016",
-            "Classification": 1
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@bigjonnyboy68",
-                  ":",
-                  "But",
-                  "Daddy",
-                  ",",
-                  "I've",
-                  "only",
-                  "just",
-                  "got",
-                  "in",
-                  "from",
-                  "school",
-                  "!",
-                  "What",
-                  "do",
-                  "you",
-                  "want",
-                  "me",
-                  "to",
-                  "do",
-                  "with",
-                  "that",
-                  "?",
-                  "?",
-                  "#teen",
-                  "#jailbait",
-                  "#hot",
-                  "https://t.co/DK\u2026"
-            ],
-            "Timestamp": "Sat Mar 12 02:43:13 +0000 2016",
-            "Classification": 1
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@YoungTeenies",
-                  ":",
-                  "Do",
-                  "You",
-                  "Like",
-                  "Smaller",
-                  "Ones",
-                  "?",
-                  "#YoungPorn",
-                  "#Jailbait",
-                  "#PetiteTeens",
-                  "#TinyTits",
-                  "#CuteTeens",
-                  "https://t.co/KhUZQLbpZe"
-            ],
-            "Timestamp": "Mon Mar 28 13:20:29 +0000 2016",
-            "Classification": 1
-      },
-      {
-            "Tweet": [
-                  "@KTHopkins",
-                  "sounds",
-                  "like",
-                  "she",
-                  "is",
-                  "jailbait",
-                  "a",
-                  "28",
-                  "year",
-                  "old",
-                  "is",
-                  "about",
-                  "twice",
-                  "her",
-                  "age",
-                  "he",
-                  "is",
-                  "a",
-                  "purvey",
-                  "prat",
-                  "she",
-                  "is",
-                  "an",
-                  "immature",
-                  "teenager",
-                  "no",
-                  "excuse"
-            ],
-            "Timestamp": "Thu Mar 24 12:57:42 +0000 2016",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@cuties_young",
-                  ":",
-                  "Cuttest",
-                  "Blonde",
-                  "Ever",
-                  "#Jailbait",
-                  "#BustyTeens",
-                  "#YoungPorn",
-                  "#BustyPetite",
-                  "#PinkNipples",
-                  "https://t.co/x8z7dm1u9m"
-            ],
-            "Timestamp": "Wed Mar 16 16:02:20 +0000 2016",
-            "Classification": 1
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@Tiny_Teenss",
-                  ":",
-                  "Cute",
-                  "Flat",
-                  "Chest",
-                  "Sweetie",
-                  "#YoungPorn",
-                  "#SmallTits",
-                  "#Jailbait",
-                  "#SlimGirls",
-                  "#PetiteTeens",
-                  "https://t.co/N5ozacoUUD"
-            ],
-            "Timestamp": "Thu Mar 10 09:30:43 +0000 2016",
-            "Classification": 1
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@SweetTeenies",
-                  ":",
-                  "Tight",
-                  "Pussy",
-                  "#TeenPorn",
-                  "#Pussy",
-                  "#Naked",
-                  "#ShavedPussy",
-                  "#Ass",
-                  "#jailbait",
-                  "#CuteTeens",
-                  "http://t.co/BSeWmLOSsz"
-            ],
-            "Timestamp": "Sun Mar 13 13:03:16 +0000 2016",
-            "Classification": 1
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@parmonangan77",
-                  ":",
-                  "@superm1957",
-                  ":",
-                  "@Hot_Teen_Ass",
-                  ":",
-                  "Hot",
-                  "#jailbait",
-                  "teen",
-                  "https://t.co/steTLxzujo",
-                  "https://t.co/MRoGAlXm6g"
-            ],
-            "Timestamp": "Sat Mar 12 02:39:22 +0000 2016",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@CloudehG",
-                  ":",
-                  "@ChellyzBelly",
-                  "Talking",
-                  "about",
-                  "old",
-                  "age",
-                  ",",
-                  "caught",
-                  "your",
-                  "swimming",
-                  "in",
-                  "the",
-                  "fountain",
-                  "of",
-                  "youth",
-                  "with",
-                  "ya",
-                  "young",
-                  ",",
-                  "but",
-                  "actually",
-                  "legal",
-                  "jailbait",
-                  "\u2026"
-            ],
-            "Timestamp": "Sat Mar 26 16:47:48 +0000 2016",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@YoungTeenies",
-                  ":",
-                  "Young",
-                  "Shy",
-                  "Teen",
-                  "#PetiteTeens",
-                  "#ShavedPussy",
-                  "#Pussy",
-                  "#Jailbait",
-                  "#TinyTits",
-                  "#RateMyNudeBody",
-                  "https://t.co/TyvHTWdcis"
-            ],
-            "Timestamp": "Tue Mar 29 17:35:11 +0000 2016",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@YoungTeenies",
-                  ":",
-                  "Young",
-                  "Shy",
-                  "Teen",
-                  "#PetiteTeens",
-                  "#ShavedPussy",
-                  "#Pussy",
-                  "#Jailbait",
-                  "#TinyTits",
-                  "#RateMyNudeBody",
-                  "https://t.co/TyvHTWdcis"
-            ],
-            "Timestamp": "Tue Mar 29 17:35:11 +0000 2016",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@SweetTeenies",
-                  ":",
-                  "They",
-                  "Really",
-                  "Like",
-                  "It",
-                  "#HotSex",
-                  "#PussyLicking",
-                  "#Naked",
-                  "#Lesbian",
-                  "#Homemade",
-                  "#Petite",
-                  "#SmallAss",
-                  "#Skinny",
-                  "#ShavedPussy",
-                  "#Jailbait",
-                  "http",
-                  "\u2026"
-            ],
-            "Timestamp": "Sun Mar 27 20:18:49 +0000 2016",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@YoungTeenies",
-                  ":",
-                  "Young",
-                  "Shy",
-                  "Teen",
-                  "#PetiteTeens",
-                  "#ShavedPussy",
-                  "#Pussy",
-                  "#Jailbait",
-                  "#TinyTits",
-                  "#RateMyNudeBody",
-                  "https://t.co/TyvHTWdcis"
-            ],
-            "Timestamp": "Tue Mar 01 17:52:41 +0000 2016",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@HentaiTeengirl",
-                  ":",
-                  "\"",
-                  "Onegai",
-                  "...",
-                  "\"",
-                  "\u2661",
-                  "#hentai",
-                  "#lewd",
-                  "#hotteen",
-                  "#booty",
-                  "#hornyteen",
-                  "#jailbait",
-                  "#nsfw",
-                  "#slut",
-                  "#hornygirl",
-                  "#pawg",
-                  "#hentaicommunity",
-                  "https://\u2026"
-            ],
-            "Timestamp": "Mon Mar 28 19:31:30 +0000 2016",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "Re",
-                  ":",
-                  "[",
-                  "MERGED",
-                  "]",
-                  "my",
-                  "sexiest",
-                  "JAILBAITS",
-                  "and",
-                  "in",
-                  "BIKINIs",
-                  ":",
-                  "undies",
-                  "[",
-                  "IMG",
-                  "]",
-                  "https://t.co/945zSL526y",
-                  "...",
-                  "https://t.co/kEMKWjIQdO"
-            ],
-            "Timestamp": "Fri Apr 01 00:32:14 +0000 2016",
-            "Classification": 1
-      },
-      {
-            "Tweet": [
-                  "These",
-                  "twats",
-                  "are",
-                  "nice",
-                  ",",
-                  "but",
-                  "even",
-                  "more",
-                  "amateur",
-                  "jailbait",
-                  "await",
-                  "here",
-                  "--->",
-                  "https://t.co/agVJtPncpo",
-                  "<---",
-                  "https://t.co/CzUtzcvx4V"
-            ],
-            "Timestamp": "Thu Mar 10 18:41:49 +0000 2016",
-            "Classification": 1
-      },
-      {
-            "Tweet": [
-                  "These",
-                  "twats",
-                  "are",
-                  "nice",
-                  ",",
-                  "but",
-                  "even",
-                  "more",
-                  "amateur",
-                  "jailbait",
-                  "await",
-                  "here",
-                  "--->",
-                  "https://t.co/agVJtPncpo",
-                  "<---",
-                  "https://t.co/eAy9lu8Su7"
-            ],
-            "Timestamp": "Thu Mar 10 23:54:12 +0000 2016",
-            "Classification": 1
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@NakedTeenPics1",
-                  ":",
-                  "Innocent",
-                  "Cute",
-                  "Smile",
-                  "-",
-                  "Petite",
-                  "Blonde",
-                  "#PetiteTeens",
-                  "#Jailbait",
-                  "#SmallTits",
-                  "#CuteTeens",
-                  "#YoungPorn",
-                  "https://t.co/v3LF84F8Dx"
-            ],
-            "Timestamp": "Fri Mar 18 23:35:41 +0000 2016",
-            "Classification": 1
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@I_Love_Teens",
-                  ":",
-                  "Busty",
-                  "Petite",
-                  "Cutie",
-                  "-",
-                  "Red",
-                  "Stockings",
-                  "#BustyPetite",
-                  "#CuteGirls",
-                  "#PetiteTeens",
-                  "#YoungPorn",
-                  "#Jailbait",
-                  "https://t.co/PY5b7OHUKR"
-            ],
-            "Timestamp": "Tue Mar 08 18:49:52 +0000 2016",
-            "Classification": 1
-      },
-      {
-            "Tweet": [
-                  "These",
-                  "twats",
-                  "are",
-                  "nice",
-                  ",",
-                  "but",
-                  "even",
-                  "more",
-                  "amateur",
-                  "jailbait",
-                  "await",
-                  "here",
-                  "--->",
-                  "https://t.co/agVJtPncpo",
-                  "<---",
-                  "https://t.co/TU31XHmHU5"
-            ],
-            "Timestamp": "Tue Mar 08 22:13:17 +0000 2016",
-            "Classification": 1
-      },
-      {
-            "Tweet": [
-                  "For",
-                  "MORE",
-                  "visit",
-                  ":",
-                  "https://t.co/mrOAfptFpN",
-                  "RT",
-                  "@youngcutegirls1",
-                  ":",
-                  "#Dildo",
-                  "#Jailbait",
-                  "#Pigtails",
-                  "#Teen",
-                  "#Hot",
-                  "https://t.co/EKgYWCoRIc"
-            ],
-            "Timestamp": "Sun Mar 20 19:00:22 +0000 2016",
-            "Classification": 1
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@Tiny_Teenss",
-                  ":",
-                  "Pigtails",
-                  "Sweetie",
-                  "-",
-                  "Huge",
-                  "Ass",
-                  "And",
-                  "Pussy",
-                  "#BigAss",
-                  "#ShavedPussy",
-                  "#Jailbait",
-                  "#Pigtails",
-                  "#PuffyPussy",
-                  "https://t.co/laN9kzTx4D"
-            ],
-            "Timestamp": "Tue Mar 29 14:51:53 +0000 2016",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "This",
-                  "pic",
-                  "is",
-                  "boring",
-                  "but",
-                  "there's",
-                  "tons",
-                  "of",
-                  "hot",
-                  "teen",
-                  "jailbait",
-                  "here",
-                  ".",
-                  "Never",
-                  "before",
-                  "seen",
-                  ":",
-                  "https://t.co/agVJtPncpo",
-                  "https://t.co/CJyavOH5Vo"
-            ],
-            "Timestamp": "Tue Mar 22 00:15:14 +0000 2016",
-            "Classification": 1
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@NakedTeenPics1",
-                  ":",
-                  "Innocent",
-                  "Cute",
-                  "Smile",
-                  "-",
-                  "Petite",
-                  "Blonde",
-                  "#PetiteTeens",
-                  "#Jailbait",
-                  "#SmallTits",
-                  "#CuteTeens",
-                  "#YoungPorn",
-                  "https://t.co/v3LF84F8Dx"
-            ],
-            "Timestamp": "Mon Mar 14 21:37:13 +0000 2016",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@I_Love_Teens",
-                  ":",
-                  "More",
-                  "On",
-                  "https://t.co/R4sJsTU40l",
-                  "#Petite",
-                  "#Jailbait",
-                  "#Pussy",
-                  "#Blonde",
-                  "#ShavedPussy",
-                  "#TinyTeens",
-                  "https://t.co/Mue6tqXmhn"
-            ],
-            "Timestamp": "Thu Mar 03 12:44:49 +0000 2016",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "These",
-                  "twats",
-                  "are",
-                  "nice",
-                  ",",
-                  "but",
-                  "even",
-                  "more",
-                  "amateur",
-                  "jailbait",
-                  "await",
-                  "here",
-                  "--->",
-                  "https://t.co/agVJtPncpo",
-                  "<---",
-                  "https://t.co/g2LBOtpf6B"
-            ],
-            "Timestamp": "Wed Mar 30 23:02:53 +0000 2016",
-            "Classification": 1
-      },
-      {
-            "Tweet": [
-                  "These",
-                  "twats",
-                  "are",
-                  "nice",
-                  ",",
-                  "but",
-                  "even",
-                  "more",
-                  "amateur",
-                  "jailbait",
-                  "await",
-                  "here",
-                  "--->",
-                  "https://t.co/agVJtPncpo",
-                  "<---",
-                  "https://t.co/zzoibURPrP"
-            ],
-            "Timestamp": "Wed Mar 16 19:58:58 +0000 2016",
-            "Classification": 1
-      },
-      {
-            "Tweet": [
-                  "These",
-                  "twats",
-                  "are",
-                  "nice",
-                  ",",
-                  "but",
-                  "even",
-                  "more",
-                  "amateur",
-                  "jailbait",
-                  "await",
-                  "here",
-                  "--->",
-                  "https://t.co/agVJtPncpo",
-                  "<---",
-                  "https://t.co/8TwU2JDZ2K"
-            ],
-            "Timestamp": "Thu Mar 17 01:40:33 +0000 2016",
-            "Classification": 1
-      },
-      {
-            "Tweet": [
-                  "These",
-                  "twats",
-                  "are",
-                  "nice",
-                  ",",
-                  "but",
-                  "even",
-                  "more",
-                  "amateur",
-                  "jailbait",
-                  "await",
-                  "here",
-                  "--->",
-                  "https://t.co/agVJtPncpo",
-                  "<---",
-                  "https://t.co/q589AGSwqV"
-            ],
-            "Timestamp": "Thu Mar 31 23:13:36 +0000 2016",
-            "Classification": 1
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@I_Love_Teens",
-                  ":",
-                  "Cute",
-                  "Redhead",
-                  "Teen",
-                  "-",
-                  "Pigtails",
-                  "Sweetie",
-                  "#YoungPorn",
-                  "#Jailbait",
-                  "#Pigtails",
-                  "#Redheads",
-                  "#ShavedPussy",
-                  "#ginger",
-                  "https://t.co/v5GwxtAapd"
-            ],
-            "Timestamp": "Fri Mar 11 04:59:42 +0000 2016",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@naughtyclairexo",
-                  ":",
-                  "Good",
-                  "morning",
-                  "from",
-                  "my",
-                  "shower",
-                  "#dirty",
-                  "girl",
-                  "where's",
-                  "all",
-                  "my",
-                  "#sluts",
-                  "at",
-                  "?",
-                  "#horny",
-                  "#teambi",
-                  "#girl",
-                  "#teen",
-                  "#jailbait",
-                  "https://t.co/wj\u2026"
-            ],
-            "Timestamp": "Mon Mar 14 00:56:28 +0000 2016",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@SelenasWankBank",
-                  ":",
-                  "Well",
-                  ",",
-                  "you",
-                  "dirty",
-                  "pervs",
-                  "decided",
-                  "you",
-                  "like",
-                  "17",
-                  "year",
-                  "old",
-                  "Selena",
-                  "the",
-                  "best",
-                  ",",
-                  "so",
-                  "have",
-                  "a",
-                  "treat",
-                  "!",
-                  "#SelenaGomez",
-                  "#bikini",
-                  "#jailbait",
-                  "ht",
-                  "\u2026"
-            ],
-            "Timestamp": "Mon Mar 21 13:08:49 +0000 2016",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@cuties_young",
-                  ":",
-                  "Her",
-                  "Father",
-                  "Will",
-                  "Teach",
-                  "Her",
-                  "a",
-                  "Lesson",
-                  "-",
-                  "Video",
-                  "https://t.co/zeEfROqjyw",
-                  "#Petite",
-                  "#Jailbait",
-                  "#TinyTeens",
-                  "#NakedTeens",
-                  "#Incest",
-                  "https",
-                  "\u2026"
-            ],
-            "Timestamp": "Mon Mar 14 22:21:35 +0000 2016",
-            "Classification": 1
-      },
-      {
-            "Tweet": [
-                  "#jailbait",
-                  "#Rt",
-                  "if",
-                  "ur",
-                  "obsessed",
-                  "w",
-                  "girls",
-                  "taking",
-                  "nude",
-                  "selfies",
-                  "send",
-                  "me",
-                  "new",
-                  "ones",
-                  "of",
-                  "your",
-                  "favorite",
-                  "https://t.co/b3iTkwQNcR"
-            ],
-            "Timestamp": "Thu Mar 03 17:13:17 +0000 2016",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@SweetTeenies",
-                  ":",
-                  "Lovely",
-                  "Teen",
-                  "Sweetie",
-                  "-",
-                  "See",
-                  "It",
-                  "Here",
-                  ":",
-                  "https://t.co/zHoK2ZTmAc",
-                  "-",
-                  "#Petite",
-                  "#TinyTits",
-                  "#YoungPorn",
-                  "#CuteTeens",
-                  "#Jailbait",
-                  "https://t\u2026"
-            ],
-            "Timestamp": "Fri Mar 04 03:49:59 +0000 2016",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@Sexy_Teenies",
-                  ":",
-                  "Full",
-                  "Video",
-                  ":",
-                  "https://t.co/HL70xvGBxw",
-                  "#Petite",
-                  "#Blonde",
-                  "#YoungPorn",
-                  "#CuteTeens",
-                  "#Jailbait",
-                  "https://t.co/W1W1kefHLh"
-            ],
-            "Timestamp": "Wed Mar 02 01:21:53 +0000 2016",
-            "Classification": 1
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@cuties_young",
-                  ":",
-                  "Shy",
-                  "Teen",
-                  "-",
-                  "https://t.co/qfaYzXi6VJ",
-                  "|",
-                  "#PetiteTeens",
-                  "#TinyTits",
-                  "#Jailbait",
-                  "#CuteGirls",
-                  "#YoungPorn",
-                  "https://t.co/qofG19Xewx"
-            ],
-            "Timestamp": "Wed Mar 30 20:40:56 +0000 2016",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@HotGirlsPics4",
-                  ":",
-                  "Her",
-                  "Father",
-                  "Will",
-                  "Teach",
-                  "Her",
-                  "a",
-                  "Lesson",
-                  "-",
-                  "Video",
-                  "https://t.co/lkPRGzc0y6",
-                  "#Petite",
-                  "#Jailbait",
-                  "#TinyTeens",
-                  "#NakedTeens",
-                  "#Incest",
-                  "http",
-                  "\u2026"
-            ],
-            "Timestamp": "Wed Mar 23 02:19:14 +0000 2016",
-            "Classification": 1
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@SexyGirlsPics3",
-                  ":",
-                  "Her",
-                  "Father",
-                  "Will",
-                  "Teach",
-                  "Her",
-                  "a",
-                  "Lesson",
-                  "-",
-                  "Video",
-                  "https://t.co/4XEF9Ynzzu",
-                  "#Petite",
-                  "#Jailbait",
-                  "#TinyTeens",
-                  "#NakedTeens",
-                  "#Incest",
-                  "htt",
-                  "\u2026"
-            ],
-            "Timestamp": "Tue Mar 22 15:03:29 +0000 2016",
-            "Classification": 1
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@cuties_young",
-                  ":",
-                  "Her",
-                  "Father",
-                  "Will",
-                  "Teach",
-                  "Her",
-                  "a",
-                  "Lesson",
-                  "-",
-                  "Video",
-                  "https://t.co/zeEfROqjyw",
-                  "#Petite",
-                  "#Jailbait",
-                  "#TinyTeens",
-                  "#NakedTeens",
-                  "#Incest",
-                  "https",
-                  "\u2026"
-            ],
-            "Timestamp": "Wed Mar 16 17:20:25 +0000 2016",
-            "Classification": 1
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@I_Love_Teens",
-                  ":",
-                  "Cute",
-                  "Redhead",
-                  "Teen",
-                  "-",
-                  "Pigtails",
-                  "Sweetie",
-                  "#YoungPorn",
-                  "#Jailbait",
-                  "#Pigtails",
-                  "#Redheads",
-                  "#ShavedPussy",
-                  "#ginger",
-                  "https://t.co/v5GwxtAapd"
-            ],
-            "Timestamp": "Wed Mar 16 22:52:43 +0000 2016",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@SweetTeenies",
-                  ":",
-                  "Her",
-                  "Father",
-                  "Will",
-                  "Teach",
-                  "Her",
-                  "a",
-                  "Lesson",
-                  "-",
-                  "Video",
-                  "https://t.co/FhOYsksr8m",
-                  "#Petite",
-                  "#Jailbait",
-                  "#TinyTeens",
-                  "#NakedTeens",
-                  "#Incest",
-                  "https",
-                  "\u2026"
-            ],
-            "Timestamp": "Thu Mar 31 10:16:19 +0000 2016",
-            "Classification": 1
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@LoverAndAnother",
-                  ":",
-                  "These",
-                  "twats",
-                  "are",
-                  "nice",
-                  ",",
-                  "but",
-                  "even",
-                  "more",
-                  "amateur",
-                  "jailbait",
-                  "await",
-                  "here",
-                  "--->",
-                  "https://t.co/agVJtPncpo",
-                  "<---",
-                  "https://t.co/tpmTMlQ\u2026"
-            ],
-            "Timestamp": "Fri Mar 18 20:28:39 +0000 2016",
-            "Classification": 1
-      },
-      {
-            "Tweet": [
-                  "More",
-                  "Hot",
-                  "Girls",
-                  "@",
-                  "https://t.co/OqX70Flx5t",
-                  "#hornyselfie",
-                  "#nudegirl",
-                  "#snapchat",
-                  "#jailbait",
-                  "https://t.co/sZm0tGMScw",
-                  "https://t.co/YMMTcPjilp"
-            ],
-            "Timestamp": "Sun Mar 20 19:03:32 +0000 2016",
-            "Classification": 1
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@Missfreelancer4",
-                  ":",
-                  "I",
-                  "love",
-                  "this",
-                  "wee",
-                  "guy",
-                  "!",
-                  "Nate",
-                  "Reus",
-                  "!",
-                  "Ain't",
-                  "he",
-                  "just",
-                  "sooooo",
-                  "cute",
-                  "?",
-                  "Jailbait",
-                  "though",
-                  "yea",
-                  "?",
-                  "Worth",
-                  "it",
-                  "?",
-                  "Totally",
-                  "!",
-                  "Nothing",
-                  "...",
-                  "https",
-                  ":",
-                  "\u2026"
-            ],
-            "Timestamp": "Sun Mar 20 11:01:20 +0000 2016",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@TeensPetite",
-                  ":",
-                  "Young",
-                  "Petite",
-                  "Cutie",
-                  "-",
-                  "https://t.co/qF9FowUmU5",
-                  "|",
-                  "#TeenPorn",
-                  "#TinyTeens",
-                  "#Jailbait",
-                  "#PetiteTeens",
-                  "#CuteGirls",
-                  "https://t.co/kDd3P9B\u2026"
-            ],
-            "Timestamp": "Tue Mar 01 13:00:23 +0000 2016",
-            "Classification": 1
-      },
-      {
-            "Tweet": [
-                  "More",
-                  "Hot",
-                  "Girls",
-                  "@",
-                  "https://t.co/1rMrbRVtwx",
-                  "#hotselfie",
-                  "#hornygirl",
-                  "#snapchat",
-                  "#jailbait",
-                  "https://t.co/sZm0tGMScw",
-                  "https://t.co/hFqJWlJcHS"
-            ],
-            "Timestamp": "Sat Mar 19 11:03:28 +0000 2016",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@babyjaju",
-                  ":",
-                  "My",
-                  "shave",
-                  "#pussy",
-                  "on",
-                  "display",
-                  "in",
-                  "a",
-                  "party",
-                  "tonight",
-                  "my",
-                  "so",
-                  "bff-bf",
-                  "send",
-                  "me",
-                  "this",
-                  "pic",
-                  "which",
-                  "I",
-                  "post",
-                  "for",
-                  "u",
-                  "xoxo",
-                  ".",
-                  "#jailbait",
-                  "#FF",
-                  "https://t.c\u2026"
-            ],
-            "Timestamp": "Sun Mar 27 21:39:19 +0000 2016",
-            "Classification": 1
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@HotSelfiesX",
-                  ":",
-                  "More",
-                  "Hot",
-                  "Teens",
-                  "@",
-                  "https://t.co/OqX70Flx5t",
-                  "#hotselfie",
-                  "#nudegirl",
-                  "#barelylegal",
-                  "#jailbait",
-                  "https://t.co/sZm0tGMScw",
-                  "https://t.co\u2026"
-            ],
-            "Timestamp": "Wed Mar 02 00:43:28 +0000 2016",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@Tiny_Teenss",
-                  ":",
-                  "Sweet",
-                  "Petite",
-                  "Cutie",
-                  "-",
-                  "https://t.co/NuMFfFKPeW",
-                  "|",
-                  "#CuteGirls",
-                  "#PetiteTeens",
-                  "#Jailbait",
-                  "#Petite",
-                  "#HairyPussy",
-                  "#Pussy",
-                  "https://t.co/B\u2026"
-            ],
-            "Timestamp": "Tue Mar 01 13:26:26 +0000 2016",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "Cum",
-                  "check",
-                  "out",
-                  "some",
-                  "amateur",
-                  "girls",
-                  "at",
-                  "Desktop",
-                  "Bravo's",
-                  "Gallery",
-                  ">",
-                  ">",
-                  "https://t.co/vNLFI5cXb9",
-                  "<",
-                  "<",
-                  "#jailbait",
-                  "https://t.co/YhBt9YK4oC"
-            ],
-            "Timestamp": "Thu Mar 10 23:59:45 +0000 2016",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "Cum",
-                  "check",
-                  "out",
-                  "some",
-                  "amateur",
-                  "girls",
-                  "at",
-                  "Desktop",
-                  "Bravo's",
-                  "Gallery",
-                  ">",
-                  ">",
-                  "https://t.co/vNLFI5cXb9",
-                  "<",
-                  "<",
-                  "#jailbait",
-                  "https://t.co/cYBqDbWPQE"
-            ],
-            "Timestamp": "Mon Mar 14 04:03:45 +0000 2016",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@SweetTeenies",
-                  ":",
-                  "Amy",
-                  "Days",
-                  "Set",
-                  "6",
-                  "-",
-                  "Gallery",
-                  "Here",
-                  ":",
-                  "https://t.co/OTGacAQzTc",
-                  "#Petite",
-                  "#TinyTits",
-                  "#YoungPorn",
-                  "#SmallTits",
-                  "#Jailbait",
-                  "https://t.co/w8\u2026"
-            ],
-            "Timestamp": "Tue Mar 22 00:54:43 +0000 2016",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "Cum",
-                  "check",
-                  "out",
-                  "some",
-                  "amateur",
-                  "girls",
-                  "at",
-                  "Desktop",
-                  "Bravo's",
-                  "Gallery",
-                  ">",
-                  ">",
-                  "https://t.co/vNLFI4VlMz",
-                  "<",
-                  "<",
-                  "#jailbait",
-                  "https://t.co/4OODzYPaSX"
-            ],
-            "Timestamp": "Fri Mar 04 06:00:58 +0000 2016",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "Cum",
-                  "check",
-                  "out",
-                  "some",
-                  "amateur",
-                  "girls",
-                  "at",
-                  "Desktop",
-                  "Bravo's",
-                  "Gallery",
-                  ">",
-                  ">",
-                  "https://t.co/vNLFI5cXb9",
-                  "<",
-                  "<",
-                  "#jailbait",
-                  "https://t.co/Vm5UzlwB55"
-            ],
-            "Timestamp": "Wed Mar 23 01:41:30 +0000 2016",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "Cum",
-                  "check",
-                  "out",
-                  "some",
-                  "amateur",
-                  "girls",
-                  "at",
-                  "Desktop",
-                  "Bravo's",
-                  "Gallery",
-                  ">",
-                  ">",
-                  "https://t.co/vNLFI5cXb9",
-                  "<",
-                  "<",
-                  "#jailbait",
-                  "https://t.co/mBmVERnmXA"
-            ],
-            "Timestamp": "Fri Mar 25 02:53:25 +0000 2016",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "Cum",
-                  "check",
-                  "out",
-                  "some",
-                  "amateur",
-                  "girls",
-                  "at",
-                  "Desktop",
-                  "Bravo's",
-                  "Gallery",
-                  ">",
-                  ">",
-                  "https://t.co/vNLFI5cXb9",
-                  "<",
-                  "<",
-                  "#jailbait",
-                  "https://t.co/TJgEpYqPOT"
-            ],
-            "Timestamp": "Sat Mar 26 03:59:44 +0000 2016",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@DesktopBravo",
-                  ":",
-                  "Cum",
-                  "check",
-                  "out",
-                  "some",
-                  "amateur",
-                  "girls",
-                  "at",
-                  "Desktop",
-                  "Bravo's",
-                  "Gallery",
-                  ">",
-                  ">",
-                  "https://t.co/vNLFI5cXb9",
-                  "<",
-                  "<",
-                  "#jailbait",
-                  "https://t.co/spcjxkcg\u2026"
-            ],
-            "Timestamp": "Fri Mar 18 09:10:59 +0000 2016",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@DesktopBravo",
-                  ":",
-                  "Cum",
-                  "check",
-                  "out",
-                  "some",
-                  "amateur",
-                  "girls",
-                  "at",
-                  "Desktop",
-                  "Bravo's",
-                  "Gallery",
-                  ">",
-                  ">",
-                  "https://t.co/vNLFI5cXb9",
-                  "<",
-                  "<",
-                  "#jailbait",
-                  "https://t.co/S2HWtQMo\u2026"
-            ],
-            "Timestamp": "Sat Mar 26 19:37:00 +0000 2016",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@DesktopBravo",
-                  ":",
-                  "Cum",
-                  "check",
-                  "out",
-                  "some",
-                  "amateur",
-                  "girls",
-                  "at",
-                  "Desktop",
-                  "Bravo's",
-                  "Gallery",
-                  ">",
-                  ">",
-                  "https://t.co/vNLFI5cXb9",
-                  "<",
-                  "<",
-                  "#jailbait",
-                  "https://t.co/MlUr8wXV\u2026"
-            ],
-            "Timestamp": "Sat Mar 26 10:58:56 +0000 2016",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@DesktopBravo",
-                  ":",
-                  "Cum",
-                  "check",
-                  "out",
-                  "some",
-                  "amateur",
-                  "girls",
-                  "at",
-                  "Desktop",
-                  "Bravo's",
-                  "Gallery",
-                  ">",
-                  ">",
-                  "https://t.co/vNLFI5cXb9",
-                  "<",
-                  "<",
-                  "#jailbait",
-                  "https://t.co/VOeH1Qo6\u2026"
-            ],
-            "Timestamp": "Sat Mar 26 22:26:53 +0000 2016",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "RT",
-                  "@DesktopBravo",
-                  ":",
-                  "Cum",
-                  "check",
-                  "out",
-                  "some",
-                  "amateur",
-                  "girls",
-                  "at",
-                  "Desktop",
-                  "Bravo's",
-                  "Gallery",
-                  ">",
-                  ">",
-                  "https://t.co/vNLFI5cXb9",
-                  "<",
-                  "<",
-                  "#jailbait",
-                  "https://t.co/A7oUyyrC\u2026"
-            ],
-            "Timestamp": "Tue Mar 22 05:45:40 +0000 2016",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "text"
-            ],
-            "Timestamp": "created_at",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "#jailbait",
-                  "#jailbait",
-                  "#jailbait",
-                  "#jailbait",
-                  "#jailbait",
-                  ":("
-            ],
-            "Timestamp": "Mon Jul 16 06:57:07 +0000 2012",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "jailbait",
-                  ",",
-                  "jailbait",
-                  ",",
-                  "jailbait",
-                  ",",
-                  "jailbait",
-                  ",",
-                  "lol"
-            ],
-            "Timestamp": "Tue Jul 03 20:41:25 +0000 2012",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "#jailbait"
-            ],
-            "Timestamp": "Wed Jul 18 06:34:16 +0000 2012",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "#jailbait"
-            ],
-            "Timestamp": "Sun Jul 15 06:49:04 +0000 2012",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "#jailbait"
-            ],
-            "Timestamp": "Sun Jul 15 15:34:28 +0000 2012",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "She",
-                  "is",
-                  "such",
-                  "jailbait",
-                  "..."
-            ],
-            "Timestamp": "Sat Jul 14 06:40:56 +0000 2012",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "I",
-                  "don't",
-                  "do",
-                  "jailbait",
-                  ".",
-                  "!"
-            ],
-            "Timestamp": "Thu Jul 19 23:50:58 +0000 2012",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "Jailbait",
-                  "Movie",
-                  "Now",
-                  "Jailbait",
-                  "movie",
-                  "download",
-                  "Actors",
-                  ":",
-                  "Jack",
-                  "Guy",
-                  "Yves",
-                  "Collignon",
-                  "Boris",
-                  "Stoikoff",
-                  "Bente",
-                  "Nielse",
-                  "http://t.co/NuMkVvUQ"
-            ],
-            "Timestamp": "Sat Jul 28 11:52:42 +0000 2012",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "nobody",
-                  "is",
-                  "jailbait"
-            ],
-            "Timestamp": "Thu Jul 05 05:00:08 +0000 2012",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "These",
-                  "gymnasts",
-                  "are",
-                  "all",
-                  "jailbait"
-            ],
-            "Timestamp": "Mon Jul 30 03:45:24 +0000 2012",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "@CookieeRaideer",
-                  "what",
-                  "the",
-                  "jailbait",
-                  ";)"
-            ],
-            "Timestamp": "Thu Jul 12 15:03:39 +0000 2012",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "Poor",
-                  "Jailbait",
-                  ":("
-            ],
-            "Timestamp": "Tue Jul 24 02:53:01 +0000 2012",
-            "Classification": 0
-      },
-      {
-            "Tweet": [
-                  "JAILBAIT",
-                  "\ud83d\udc76",
-                  "\ud83d\udc6e",
-                  "\ud83d\ude93"
-            ],
-            "Timestamp": "Tue Jul 24 04:39:01 +0000 2012",
             "Classification": 0
       }
 ]
